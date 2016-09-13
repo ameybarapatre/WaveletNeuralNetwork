@@ -1,0 +1,5 @@
+Data segregation - Done
+Data to be standardised 1 mean 0 variance - Done
+Feature selection - Done
+Data to be interpolated since it is not polled at regular intervals - Data set seems ample
+Data to be scaled - Done
